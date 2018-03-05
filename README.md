@@ -350,8 +350,7 @@ The following attributes are set:
 
 ### Retrieve one Entity Descriptor when many exist in Metadata
 
-If the Metadata contains several entities, the relevant Entity
-Descriptor can be specified when retrieving the settings from the
+If the Metadata contains several entities, the relevant Entity Descriptor can be specified when retrieving the settings from the
 IdpMetadataParser by its Entity Id value:
 
 ```ruby
